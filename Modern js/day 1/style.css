@@ -1,0 +1,12 @@
+div p {
+   background-color: orange;
+   color: black;
+   font-size: 32px;
+}
+
+div {
+   border: 2px solid purple;
+   padding: 20px;
+
+   
+}
