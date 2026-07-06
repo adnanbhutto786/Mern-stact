@@ -1,0 +1,26 @@
+.profile-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  font-family: Arial, sans-serif;
+  background-color: #1e1e2f;
+  color: white;
+}
+
+.profile-card button {
+  margin-top: 15px;
+  padding: 10px 25px;
+  font-size: 1rem;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  background-color: #4a4ae0;
+  color: white;
+  transition: 0.2s;
+}
+
+.profile-card button:hover {
+  background-color: #6a6aff;
+}
