@@ -1,0 +1,198 @@
+Phase 1: React Fundamentals ✅
+✅ Setup
+✅ Folder Structure
+✅ JSX
+✅ Components
+✅ Props
+✅ CSS
+✅ useState
+✅ useEffect
+
+
+Phase 2: Forms (Ab yahan se start)
+
+Is phase ko hum skip nahi karenge. Bohot detail me padhenge.
+
+Lesson 1: Input Fields
+
+Sabse pehle ye samjhenge:
+
+<input type="text" />
+
+<input type="email" />
+
+<input type="password" />
+
+<input type="number" />
+
+<input type="date" />
+
+<input type="file" />
+
+<input type="checkbox" />
+
+<input type="radio" />
+
+<input type="color" />
+
+<input type="range" />
+
+<input type="time" />
+
+<input type="month" />
+
+<input type="week" />
+
+<input type="url" />
+
+<input type="search" />
+
+<input type="tel" />
+
+<textarea>
+
+<select>
+
+<option>
+
+<button>
+
+Har input ka:
+
+Purpose
+Real Life Use
+Software House Example
+React Example
+Assignment
+Lesson 2: Events
+
+Hum ye events seekhenge.
+
+onClick
+
+onChange
+
+onSubmit
+
+onBlur
+
+onFocus
+
+onKeyDown
+
+onKeyUp
+
+onMouseEnter
+
+onMouseLeave
+
+onDoubleClick
+
+Har event ka real project example.
+
+Lesson 3: Controlled Components
+
+Ye React ka bohot important topic hai.
+
+Seekhenge:
+
+Input ko state se connect karna
+
+Live Input
+
+Live Preview
+
+Character Counter
+
+Auto Uppercase
+
+Auto Lowercase
+Lesson 4: Forms
+
+Professional Login Form
+
+Signup Form
+
+Contact Form
+
+Forgot Password
+
+Reset Password
+
+Feedback Form
+
+Profile Form
+
+Lesson 5: Form Validation
+
+Software House style.
+
+Without Library
+
+Then
+
+With Library
+
+Validation:
+
+✅ Empty
+
+✅ Email
+
+✅ Password Length
+
+✅ Confirm Password
+
+✅ Phone Number
+
+✅ CNIC
+
+✅ Username
+
+Lesson 6: Search
+
+Live Search
+
+Filter
+
+Products Search
+
+Employee Search
+
+Students Search
+
+Lesson 7: CRUD
+
+Add
+
+Delete
+
+Update
+
+Edit
+
+Search
+
+Filter
+
+Ye React ka bohot important phase hai.
+
+Phase 3
+
+React Router
+
+Phase 4
+
+API Integration
+
+Phase 5
+
+Context API
+
+Phase 6
+
+Custom Hooks
+
+Phase 7
+
+Authentication
